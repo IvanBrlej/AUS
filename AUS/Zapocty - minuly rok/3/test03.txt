@@ -1,0 +1,8 @@
+1, usporiada zretazenu tabu¾ku, kosostvorcovu, BVS, treap 
+pod¾a zloitosti operácie Nájdi prvok
+
+2, ¾avá rotácia jednoduchy príklad
+
+3,napíš pseudokod nájdi prvok v treape
+
+4 hashovacia funkcia na ci slúi a co to je
